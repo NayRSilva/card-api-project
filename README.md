@@ -12,6 +12,11 @@ Run tests:
 
 npx vitest
 
+TESTING:
+
+Tests were developed with Vitest as its integration with Vite React is easier to setup.
+Components were tested but in the future I would like to modulize and isolate the test of some methods. No time though.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
